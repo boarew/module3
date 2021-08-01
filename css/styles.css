@@ -1,0 +1,76 @@
+body {
+	font-size: 16px;
+	color: black;
+	font-family: 'Heebo', sans-serif;
+}
+
+
+#header-nav {
+	background-color: #FFB686;
+	border-radius: 0;
+	border: 0;
+	
+}
+
+.navbar-brand {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+.navbar-brand h1 {
+	font-family: 'Heebo', sans-serif;
+	color: #424242;
+	font-size: 1.8em;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a{
+	color: #FF710C;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background: #FF6E2E;
+	color: white;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: none;
+}
+
+
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -45px;
+}
+
+/*main page*/
+h2 {
+	color: #646464;
+	font-size: 1.8em;
+	margin-top: 30px;
+}
+
+#main-content .menu-description{
+	background-color: #DDDDDD;
+	margin: 30px;
+	width: auto;
+}
+
+p.menu-item-detail {
+	padding: 10px;
+	margin: 10px;
+}
+h3.menu-item-title {
+	text-align: center;
+	font-size: 1.1em;
+	font-weight: bold;
+}
