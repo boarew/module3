@@ -67,7 +67,7 @@ h2 {
 }
 
 .container {
-	margin: 0;
+	margin-bottom: 20px;
 	width: auto;
 }
 p.menu-item-detail {
