@@ -16,6 +16,7 @@ body {
 	padding-top: 20px;
 	padding-bottom: 40px;
 }
+
 .navbar-brand h1 {
 	font-family: 'Heebo', sans-serif;
 	color: #424242;
@@ -56,15 +57,19 @@ body {
 h2 {
 	color: #646464;
 	font-size: 1.8em;
-	margin-top: 30px;
+	margin-top: 20px;
+	margin-bottom: 30px;
 }
 
-#main-content .menu-description{
+.menu-description {
 	background-color: #DDDDDD;
-	margin: 30px;
+	
+}
+
+.container {
+	margin: 0;
 	width: auto;
 }
-
 p.menu-item-detail {
 	padding: 10px;
 	margin: 10px;
